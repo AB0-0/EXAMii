@@ -178,7 +178,7 @@ header {
     gap: 1rem;
   }
 }
-
+/* themes */
 .theme-toggle {
   background-color: #E67EBF;
   color: white;
@@ -205,6 +205,8 @@ header {
 .dark .theme-toggle {
   background-color: #c965aa;
 }
+
+
 .choice-btn.correct {
     background-color: #4CAF50; /* green */
     color: white;
@@ -217,6 +219,7 @@ header {
     border: 2px solid #c62828;
 }
 
+/* feedback */
 .feedback {
   margin-top: 1em;
   padding: 10px;
@@ -233,14 +236,6 @@ header {
 .feedback.wrong {
   background-color: #f8d7da;
   color: #721c24;
-}
-
-.choice-btn.correct {
-  background-color: #c8f7c5;
-}
-
-.choice-btn.wrong {
-  background-color: #f5b7b1;
 }
 
 @keyframes fadeIn {
