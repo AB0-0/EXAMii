@@ -216,10 +216,31 @@ header {
     color: white;
     border: 2px solid #c62828;
 }
+
 .feedback {
-    margin-top: 10px;
-    font-weight: bold;
-    animation: fadeIn 0.5s ease-in-out;
+  margin-top: 1em;
+  padding: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.feedback.correct {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.feedback.wrong {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.choice-btn.correct {
+  background-color: #c8f7c5;
+}
+
+.choice-btn.wrong {
+  background-color: #f5b7b1;
 }
 
 @keyframes fadeIn {
