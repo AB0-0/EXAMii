@@ -65,22 +65,41 @@ header {
 
 /* Upload and Preloaded buttons */
 .upload-btn,
-.preload-btn button {
-  background-color: #E67EBF;
-  color: white;
-  border: none;
-  padding: 12px 20px;
-  margin: 10px 0;
-  border-radius: 10px;
-  cursor: pointer;
-  font-size: 1rem;
-  transition: background-color 0.2s ease;
+.preload-btn {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 12px;
 }
 
-.upload-btn:hover,
-.preload-btn button:hover {
-  background-color: #c965aa;
+.upload-btn {
+  width: 100px; /* fixed width */
+  height: 30px;
+  font-size: 16px;
+  background-color: var(--button-bg, #e67ebf);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s ease;
 }
+.preload-btn button {
+  width: 200px; /* fixed width */
+  height: 48px;
+  font-size: 16px;
+  background-color: var(--button-bg, #e67ebf);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.preload-btn button:hover {
+  background-color: #d066a5;
+}
+
 
 .upload-btn input {
   display: none;
