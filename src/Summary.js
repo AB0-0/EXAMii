@@ -30,7 +30,7 @@ function Summary() {
         </div>
       ))}
 
-      <button onClick={() => navigate('/')}>Back to Dashboard</button>
+      <button className='upload-btn' onClick={() => navigate('/')}>Back to Dashboard</button>
     </div>
   );
 }
