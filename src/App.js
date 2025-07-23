@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Dashboard from './Dashboard';
 import Exam from './Exam';
+import Summary from './Summary';
 import './style.css';
 
 export const ThemeContext = React.createContext();
@@ -15,6 +16,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Dashboard />} />
           <Route path='/exam' element={<Exam />} />
+          <Route path="/summary" element={<Summary />} />
         </Routes>
       </div>
     </ThemeContext.Provider>
