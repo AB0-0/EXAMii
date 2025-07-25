@@ -38,9 +38,9 @@ function Dashboard() {
                     <button onClick={()=> preloadExam('progman_m1.csv')}>Progman Module 1</button>
                     <button onClick={()=> preloadExam('progman_m2.csv')}>Progman Module 2</button>
                     <button onClick={()=> preloadExam('progman_m3.csv')}>Progman Module 3</button>
-                    <button onClick={()=> preloadExam('progman_qa.csv')}>Progman Module 3</button>
-                    <button onClick={()=> preloadExam('progman_true_false.csv')}>Progman Module 3</button>
-                    <button onClick={()=> preloadExam('progman_pmroles.csv')}>Progman Module 3</button>
+                    <button onClick={()=> preloadExam('progman_qa.csv')}>Progman Module Q&A</button>
+                    <button onClick={()=> preloadExam('progman_true_false.csv')}>Progman Module True/False</button>
+                    <button onClick={()=> preloadExam('progman_pmroles.csv')}>Progman PM ROLES</button>
                 </div>
             </div>
         </div>
