@@ -1,51 +1,51 @@
-question,correct_answer,choice1
-"Jose Rizal was born on June 19, 1861 in Calamba, Laguna.",Fact,Interpretation
-Jose Rizal wrote the Spanish‚Äëlanguage novel Noli Me Tangere published in 1887.,Fact,Interpretation
-He published the sequel El Filibusterismo in 1891 in Ghent.,Fact,Interpretation
-"He founded La Liga Filipina on July 3, 1892 in Tondo, Manila.",Fact,Interpretation
-Rizal was exiled to Dapitan from 1892 to 1896.,Fact,Interpretation
-He wrote Mi ⁄ltimo AdiÛsù on the eve of his execution.,Fact,Interpretation
-"He was executed by firing squad on December 30, 1896 at Bagumbayan.",Fact,Interpretation
-Jose Rizal trained and practiced as a medical doctor.,Fact,Interpretation
-He used the pen name Laong Laan in La Solidaridad.,Fact,Interpretation
-He was the eldest son of Francisco Rizal Mercado and Teodora Alonso.,Fact,Interpretation
-Rizal's novels exposed Spanish friar abuses and colonial injustice.,Fact,Interpretation
-He dedicated El Filibusterismo to the executed Gomburza priests.,Fact,Interpretation
-He taught and practiced medicine in his Dapitan exile.,Fact,Interpretation
-He corresponded closely with Austrian professor Ferdinand Blumentritt.,Fact,Interpretation
-"Before his execution, he was imprisoned in Fort Santiago.",Fact,Interpretation
-He offered to serve as a military doctor in Cuba in 1896 but was arrested.,Fact,Interpretation
-Rizal had nine sisters and one brother in his immediate family.,Fact,Interpretation
-He studied at Ateneo and the University of Santo Tomas before going to Madrid.,Fact,Interpretation
-His family belonged to the principalia (town elite) class in Calamba.,Fact,Interpretation
-He briefly worked in Hong Kong as an ophthalmologist before exile.,Fact,Interpretation
-He wrote several essays in La Solidaridad advocating reform under Spain.,Fact,Interpretation
-"He passed away at age 35, on December 30, 1896.",Fact,Interpretation
-His writings helped inspire the Propaganda Movement.,Fact,Interpretation
-He was never formally declared national hero by Philippine law or decree.,Fact,Interpretation
-He studied ophthalmology as part of his medical training in Europe.,Fact,Interpretation
-Rizal is an American-sponsored hero.,Interpretation,Fact
-He was a reluctant revolutionary and didn't support the Katipunan fully.,Interpretation,Fact
-The execution of Rizal triggered the Philippine Revolution.,Interpretation,Fact
-Rizal died for something he didn't truly believe in.,Interpretation,Fact
-Rizal is a conscious hero.,Interpretation,Fact
-Rizal wrote the poem Sa Aking Kabata at age 8.,Interpretation,Fact
-His exile to Dapitan was planned and voluntary.,Interpretation,Fact
-He supported Philippine independence through armed revolution.,Interpretation,Fact
-Rizal was part of the Katipunan leadership.,Interpretation,Fact
-Rizal alone inspired Andres Bonifacio to start the revolution.,Interpretation,Fact
-He believed education alone could bring independence.,Interpretation,Fact
-Rizal rejected all forms of violence outright.,Interpretation,Fact
-His novels were written to incite armed rebellion.,Interpretation,Fact
-His alleged retraction before execution disqualifies him as hero.,Interpretation,Fact
-He had no European influences in his outlook.,Interpretation,Fact
-His dedication to Gomburza meant he wanted to avenge them through revolution.,Interpretation,Fact
-"Prudence and mysticism, not rationalism, were at the core of his character.",Interpretation,Fact
-He foresaw his death in dreams and premonitions.,Interpretation,Fact
-He opted to sacrifice himself for a cause he did not fully support.,Interpretation,Fact
-Rizal left La Liga Filipina to immediately join the revolution.,Interpretation,Fact
-He was permanently anti-clerical and opposed the Church in all forms.,Interpretation,Fact
-He was unconcerned about Spain unless reforms failed.,Interpretation,Fact
-He returned to the Philippines only to instigate revolution.,Interpretation,Fact
-His novels are merely literary exercises and not political tools.,Interpretation,Fact
-He showed no interest in politics prior to 1892.,Interpretation,Fact
+question,correct_answer,choice1,choice2,choice3
+"Jose Rizal was born on June 19, 1861 in Calamba, Laguna.",Fact,Interpretation,,
+Jose Rizal wrote the Spanish‚Äëlanguage novel Noli Me Tangere published in 1887.,Fact,Interpretation,,
+He published the sequel El Filibusterismo in 1891 in Ghent.,Fact,Interpretation,,
+"He founded La Liga Filipina on July 3, 1892 in Tondo, Manila.",Fact,Interpretation,,
+Rizal was exiled to Dapitan from 1892 to 1896.,Fact,Interpretation,,
+He wrote Mi ⁄ltimo AdiÛsù on the eve of his execution.,Fact,Interpretation,,
+"He was executed by firing squad on December 30, 1896 at Bagumbayan.",Fact,Interpretation,,
+Jose Rizal trained and practiced as a medical doctor.,Fact,Interpretation,,
+He used the pen name Laong Laan in La Solidaridad.,Fact,Interpretation,,
+He was the eldest son of Francisco Rizal Mercado and Teodora Alonso.,Fact,Interpretation,,
+Rizal's novels exposed Spanish friar abuses and colonial injustice.,Fact,Interpretation,,
+He dedicated El Filibusterismo to the executed Gomburza priests.,Fact,Interpretation,,
+He taught and practiced medicine in his Dapitan exile.,Fact,Interpretation,,
+He corresponded closely with Austrian professor Ferdinand Blumentritt.,Fact,Interpretation,,
+"Before his execution, he was imprisoned in Fort Santiago.",Fact,Interpretation,,
+He offered to serve as a military doctor in Cuba in 1896 but was arrested.,Fact,Interpretation,,
+Rizal had nine sisters and one brother in his immediate family.,Fact,Interpretation,,
+He studied at Ateneo and the University of Santo Tomas before going to Madrid.,Fact,Interpretation,,
+His family belonged to the principalia (town elite) class in Calamba.,Fact,Interpretation,,
+He briefly worked in Hong Kong as an ophthalmologist before exile.,Fact,Interpretation,,
+He wrote several essays in La Solidaridad advocating reform under Spain.,Fact,Interpretation,,
+"He passed away at age 35, on December 30, 1896.",Fact,Interpretation,,
+His writings helped inspire the Propaganda Movement.,Fact,Interpretation,,
+He was never formally declared national hero by Philippine law or decree.,Fact,Interpretation,,
+He studied ophthalmology as part of his medical training in Europe.,Fact,Interpretation,,
+Rizal is an American-sponsored hero.,Interpretation,Fact,,
+He was a reluctant revolutionary and didn't support the Katipunan fully.,Interpretation,Fact,,
+The execution of Rizal triggered the Philippine Revolution.,Interpretation,Fact,,
+Rizal died for something he didn't truly believe in.,Interpretation,Fact,,
+Rizal is a conscious hero.,Interpretation,Fact,,
+Rizal wrote the poem Sa Aking Kabata at age 8.,Interpretation,Fact,,
+His exile to Dapitan was planned and voluntary.,Interpretation,Fact,,
+He supported Philippine independence through armed revolution.,Interpretation,Fact,,
+Rizal was part of the Katipunan leadership.,Interpretation,Fact,,
+Rizal alone inspired Andres Bonifacio to start the revolution.,Interpretation,Fact,,
+He believed education alone could bring independence.,Interpretation,Fact,,
+Rizal rejected all forms of violence outright.,Interpretation,Fact,,
+His novels were written to incite armed rebellion.,Interpretation,Fact,,
+His alleged retraction before execution disqualifies him as hero.,Interpretation,Fact,,
+He had no European influences in his outlook.,Interpretation,Fact,,
+His dedication to Gomburza meant he wanted to avenge them through revolution.,Interpretation,Fact,,
+"Prudence and mysticism, not rationalism, were at the core of his character.",Interpretation,Fact,,
+He foresaw his death in dreams and premonitions.,Interpretation,Fact,,
+He opted to sacrifice himself for a cause he did not fully support.,Interpretation,Fact,,
+Rizal left La Liga Filipina to immediately join the revolution.,Interpretation,Fact,,
+He was permanently anti-clerical and opposed the Church in all forms.,Interpretation,Fact,,
+He was unconcerned about Spain unless reforms failed.,Interpretation,Fact,,
+He returned to the Philippines only to instigate revolution.,Interpretation,Fact,,
+His novels are merely literary exercises and not political tools.,Interpretation,Fact,,
+He showed no interest in politics prior to 1892.,Interpretation,Fact,,
