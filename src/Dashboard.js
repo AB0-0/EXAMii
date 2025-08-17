@@ -36,6 +36,7 @@ function Dashboard() {
                 <h2>Preloaded Exams:</h2>
                 <div className='preload-btn'>
                     <button onClick={()=> preloadExam('rizal_F_or_I.csv')}>Rizal Fact or Interpretation</button>
+                    <button onClick={()=> preloadExam('progman_m4_5.csv')}>ProgMan Module 4-5</button>
                 </div>
             </div>
         </div>
@@ -43,5 +44,6 @@ function Dashboard() {
 }
 
 export default Dashboard;
+
 
 
