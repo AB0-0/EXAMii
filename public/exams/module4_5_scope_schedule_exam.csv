@@ -1,0 +1,51 @@
+question,correct_answer,choice1,choice2,choice3
+What does scope in project management refer to?,All the work required to deliver the project's product or service,The estimated cost of the project,The timeline of the project,The roles of the project team
+What are the three sides of the 'trade-off triangle'?,"Scope, schedule, budget","Scope, quality, risk","Time, resources, quality","Scope, communication, quality"
+Which comes first in the scope-schedule-budget relationship?,Scope,Schedule,Budget,Risk
+What does the Work Breakdown Structure (WBS) do?,"Breaks the project into smaller, manageable components",Schedules team meetings,Calculates the budget,Assigns risk levels
+What is the Master Deliverables List (MDL)?,A list of all major deliverables in the project,A record of stakeholder contact info,A list of approved vendors,A change request log
+What is the main purpose of task planning?,Defining and sequencing project activities,Assigning costs to activities,Approving the budget,Updating lessons learned
+What is an OBS (Organization Breakdown Structure)?,A diagram showing the project organization hierarchy,A chart of project risks,A scheduling chart,A quality checklist
+What does the Initiate & Align phase include?,"Project description, team mission, milestones, and boundaries",Testing deliverables,Approving procurement,Training team members
+Which plan addresses how to handle project risks?,Risk management plan,Scope management plan,Communication plan,QA/QC plan
+What does the QA/QC plan focus on?,Ensuring quality assurance and control,Assigning staff to tasks,Allocating the budget,Identifying stakeholders
+Which estimating technique uses mathematical models?,Parametric estimating,Analogous estimating,Bottom-up estimating,Delphi method
+Which document formally authorizes a project?,Project Charter,Scope Statement,WBS,OBS
+Which scheduling tool visually displays task durations and dependencies?,Gantt Chart,Risk Register,Budget Plan,OBS
+What is float in scheduling?,Amount of time a task can be delayed without affecting the project end date,The total project duration,Slack resources,The sponsor's allowance
+What does crashing a schedule involve?,Adding resources to shorten duration,Extending the project timeline,Cutting deliverables,Reducing risks
+What is fast-tracking in scheduling?,Performing tasks in parallel instead of sequentially,Hiring faster staff,Using agile instead of waterfall,Skipping planning
+What is a deliverable?,A tangible or intangible output produced by the project,A stakeholder,A cost estimate,A task list
+What is lead time in scheduling?,Amount of time a successor task can start before its predecessor finishes,The total duration of project,The delay in communication,The hiring timeline
+What is lag time in scheduling?,A delay between tasks,The overall schedule,Project delay risk,Team conflict resolution
+What does rolling wave planning mean?,Planning in detail for near-term and broadly for future work,Scheduling all tasks at once,Delaying planning,Skipping risk planning
+Scope defines all the work required to deliver a project.,True,,,
+"The triple constraint consists of scope, schedule, and budget.",True,,,
+Progressive elaboration means developing the plan in increasing detail over time.,True,,,
+The Work Breakdown Structure (WBS) is created during project closure.,False,,,
+OBS stands for Organizational Breakdown Structure.,True,,,
+Analogous estimating is more accurate than bottom-up estimating.,False,,,
+Scope creep is beneficial for all projects.,False,,,
+A resource-loaded schedule shows both tasks and assigned resources.,True,,,
+"Change management helps control modifications to scope, schedule, and budget.",True,,,
+The AD date refers to the actual delivery date.,False,,,
+Stakeholder endorsement ensures alignment and commitment.,True,,,
+Archiving is part of the Transition & Closure Plan.,True,,,
+Task sequencing determines the order of activities.,True,,,
+The MDL contains a list of project risks.,False,,,
+Top-down estimating is based on past project data.,True,,,
+The performance baseline is used to track progress against the plan.,True,,,
+Continuous communication is optional in project management.,False,,,
+The QA/QC plan is concerned with cost estimation.,False,,,
+The Change Management Plan is created during execution.,False,,,
+"Scope, schedule, and budget are independent and do not affect each other.",False,,,
+A project is behind schedule but cannot add resources. Which technique might help?,Fast-tracking,Crashing,Rolling wave planning,Scope creep
+"During execution, the client requests additional features without added budget. This is an example of?",Scope creep,Progressive elaboration,Baseline update,Risk response
+Which scheduling method identifies the longest path through the project?,Critical Path Method (CPM),PERT,Fast-tracking,Crashing
+What is the main risk of fast-tracking?,Increased rework and risks,Longer duration,Increased cost only,Reduced quality assurance
+Which plan ensures the project ends smoothly with lessons learned?,Transition & Closure Plan,Risk Plan,QA Plan,OBS
+"If a project has fixed budget and time, what may need adjustment?",Scope,Stakeholders,OBS,MDL
+Which tool is used to compare planned vs actual progress over time?,Gantt Chart,Risk Register,OBS,Scope Statement
+"Which estimating method uses optimistic, pessimistic, and most likely values?",Three-point estimating (PERT),Analogous,Bottom-up,Parametric
+Which statement is true about crashing?,It often increases cost to reduce time,It reduces cost,It increases quality,It eliminates risks
+What is a key benefit of using a WBS?,Helps ensure no deliverables are missed,Defines stakeholder communication,Approves the budget,Closes procurement
