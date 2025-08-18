@@ -57,44 +57,43 @@ What is the function of a scope statement?,"""Document project objectives, deliv
 What is the risk if scope is poorly defined?," ""Cost overruns and schedule delays"""," ""Stakeholder happiness"""," ""Shorter schedule"""," ""Better quality"""
 What does 'aging of funding' refer to?," ""Tracking the use of budget over time"""," ""Old budgets"""," ""Unused funds"""," ""Delaying budget approval"""
 What is the role of stakeholders in scope definition?," ""Provide requirements and approve the scope"""," ""Set the AD date"""," ""Hire the team"""," ""Close the project"""
-question," ""correct_answer""",,,
-True or False: Scope defines all the work required to deliver a project.," ""True""",,,
-"True or False: The triple constraint consists of scope, schedule, and budget."," ""True""",,,
-True or False: Progressive elaboration means developing the plan in increasing detail over time.," ""True""",,,
-True or False: The Work Breakdown Structure (WBS) is created during project closure.," ""False""",,,
-True or False: OBS stands for Organizational Breakdown Structure.," ""True""",,,
-True or False: Analogous estimating is more accurate than bottom-up estimating.," ""False""",,,
-True or False: Scope creep is beneficial for all projects.," ""False""",,,
-True or False: A resource-loaded schedule shows both tasks and assigned resources.," ""True""",,,
-"True or False: Change management helps control modifications to scope, schedule, and budget."," ""True""",,,
-True or False: The AD date refers to the actual delivery date.," ""False""",,,
-True or False: Stakeholder endorsement ensures alignment and commitment.," ""True""",,,
-True or False: Archiving is part of the Transition & Closure Plan.," ""True""",,,
-True or False: Task sequencing determines the order of activities.," ""True""",,,
-True or False: The MDL contains a list of project risks.," ""False""",,,
-True or False: Top-down estimating is based on past project data.," ""True""",,,
-True or False: The performance baseline is used to track progress against the plan.," ""True""",,,
-True or False: Continuous communication is optional in project management.," ""False""",,,
-True or False: The QA/QC plan is concerned with cost estimation.," ""False""",,,
-True or False: The Change Management Plan is created during execution.," ""False""",,,
-"True or False: Scope, schedule, and budget are independent and do not affect each other."," ""False""",,,
-True or False: Scope defines all the work required to deliver a project.," ""True""",,,
-"True or False: The triple constraint consists of scope, schedule, and budget."," ""True""",,,
-True or False: Progressive elaboration means developing the plan in increasing detail over time.," ""True""",,,
-True or False: The Work Breakdown Structure (WBS) is created during project closure.," ""False""",,,
-True or False: OBS stands for Organizational Breakdown Structure.," ""True""",,,
-True or False: Analogous estimating is more accurate than bottom-up estimating.," ""False""",,,
-True or False: Scope creep is beneficial for all projects.," ""False""",,,
-True or False: A resource-loaded schedule shows both tasks and assigned resources.," ""True""",,,
-"True or False: Change management helps control modifications to scope, schedule, and budget."," ""True""",,,
-True or False: The AD date refers to the actual delivery date.," ""False""",,,
-True or False: Stakeholder endorsement ensures alignment and commitment.," ""True""",,,
-True or False: Archiving is part of the Transition & Closure Plan.," ""True""",,,
-True or False: Task sequencing determines the order of activities.," ""True""",,,
-True or False: The MDL contains a list of project risks.," ""False""",,,
-True or False: Top-down estimating is based on past project data.," ""True""",,,
-True or False: The performance baseline is used to track progress against the plan.," ""True""",,,
-True or False: Continuous communication is optional in project management.," ""False""",,,
-True or False: The QA/QC plan is concerned with cost estimation.," ""False""",,,
-True or False: The Change Management Plan is created during execution.," ""False""",,,
-"True or False: Scope, schedule, and budget are independent and do not affect each other."," ""False""",,,
+True or False: Scope defines all the work required to deliver a project.," ""True"""
+"True or False: The triple constraint consists of scope, schedule, and budget."," ""True"""
+True or False: Progressive elaboration means developing the plan in increasing detail over time.," ""True"""
+True or False: The Work Breakdown Structure (WBS) is created during project closure.," ""False"""
+True or False: OBS stands for Organizational Breakdown Structure.," ""True"""
+True or False: Analogous estimating is more accurate than bottom-up estimating.," ""False"""
+True or False: Scope creep is beneficial for all projects.," ""False"""
+True or False: A resource-loaded schedule shows both tasks and assigned resources.," ""True"""
+"True or False: Change management helps control modifications to scope, schedule, and budget."," ""True"""
+True or False: The AD date refers to the actual delivery date.," ""False"""
+True or False: Stakeholder endorsement ensures alignment and commitment.," ""True"""
+True or False: Archiving is part of the Transition & Closure Plan.," ""True"""
+True or False: Task sequencing determines the order of activities.," ""True"""
+True or False: The MDL contains a list of project risks.," ""False"""
+True or False: Top-down estimating is based on past project data.," ""True"""
+True or False: The performance baseline is used to track progress against the plan.," ""True"""
+True or False: Continuous communication is optional in project management.," ""False"""
+True or False: The QA/QC plan is concerned with cost estimation.," ""False"""
+True or False: The Change Management Plan is created during execution.," ""False"""
+"True or False: Scope, schedule, and budget are independent and do not affect each other."," ""False"""
+True or False: Scope defines all the work required to deliver a project.," ""True"""
+"True or False: The triple constraint consists of scope, schedule, and budget."," ""True"""
+True or False: Progressive elaboration means developing the plan in increasing detail over time.," ""True"""
+True or False: The Work Breakdown Structure (WBS) is created during project closure.," ""False"""
+True or False: OBS stands for Organizational Breakdown Structure.," ""True"""
+True or False: Analogous estimating is more accurate than bottom-up estimating.," ""False"""
+True or False: Scope creep is beneficial for all projects.," ""False"""
+True or False: A resource-loaded schedule shows both tasks and assigned resources.," ""True"""
+"True or False: Change management helps control modifications to scope, schedule, and budget."," ""True"""
+True or False: The AD date refers to the actual delivery date.," ""False"""
+True or False: Stakeholder endorsement ensures alignment and commitment.," ""True"""
+True or False: Archiving is part of the Transition & Closure Plan.," ""True"""
+True or False: Task sequencing determines the order of activities.," ""True"""
+True or False: The MDL contains a list of project risks.," ""False"""
+True or False: Top-down estimating is based on past project data.," ""True"""
+True or False: The performance baseline is used to track progress against the plan.," ""True"""
+True or False: Continuous communication is optional in project management.," ""False"""
+True or False: The QA/QC plan is concerned with cost estimation.," ""False"""
+True or False: The Change Management Plan is created during execution.," ""False"""
+"True or False: Scope, schedule, and budget are independent and do not affect each other."," ""False"""
