@@ -35,8 +35,8 @@ function Dashboard() {
 
                 <h2>Preloaded Exams:</h2>
                 <div className='preload-btn'>
-                    <button onClick={()=> preloadExam('progman_m4-5.csv')}>ProgMan Module 4-5</button>
-                    <button onClick={()=> preloadExam('progman_m6_time.csv')}>ProgMan Module 6: Time Management</button>
+                    <button onClick={()=> preloadExam('cw_mcq.csv')}>ProgMan Module 4-5</button>
+                    <button onClick={()=> preloadExam('cw-tf.csv')}>ProgMan Module 6: Time Management</button>
                     <button onClick={()=> preloadExam('risk-quiz.csv')}>Progman Midterm Exam</button>
                 </div>
             </div>
@@ -45,6 +45,7 @@ function Dashboard() {
 }
 
 export default Dashboard;
+
 
 
 
